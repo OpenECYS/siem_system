@@ -8,7 +8,7 @@ In this app, we simulate login attempts, and analyze them to find anomalies (a b
 
 ```bash
     # Install dependencies
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
 ```
 
 ## Visualization
